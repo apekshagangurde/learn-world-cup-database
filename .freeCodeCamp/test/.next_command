@@ -92,3 +92,6 @@ git remote add origin https://github.com/apekshagangurde/universe-database.git
 git push -u origin main
 git pull origin main
 git add .
+git push origin main
+git pull origin main --rebase
+git add .
